@@ -1,6 +1,6 @@
 # Привет, я Миша!
 
-[Моя фотография](https://via.placeholder.com/150)
+[Моя фотография](https://sun9-52.userapi.com/impg/BwSdJ4Jk-_WBa2HZtn0Bf9C_Acb5BxOKEbfOzg/dfaoFELG-Vc.jpg?size=1626x2160&quality=95&sign=49c7c99ff1fab5f148e98065562c32f3&type=album)
 
 ## О себе
 
@@ -33,7 +33,7 @@
 
 ## Контакты
 
-- *Email*: [hamatov@finntrail.ru]
+- *Email*: hamatov@finntrail.ru
 - *Вконтакте*: [Профиль vk](https://vk.com/id434227544)
 
 ## Интересы
